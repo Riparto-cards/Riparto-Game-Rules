@@ -54,7 +54,7 @@ Post Scriptum: I could not find any information on this game whatsoever, therefo
  
 	•	The two most-important suits cannot be trumped.
 
-For instance, using the previous example of a hierarchy, Picche/Spades trump Cuori/Hearts and Fiori/Clubs, whereas Quadri/Diamonds trump only Fiori/Clubs. *
+For instance, using the previous example of a hierarchy, Picche/Spades trump Cuori/Hearts and Fiori/Clubs, whereas Quadri/Diamonds trump only Fiori/Clubs.
 
 ## Play (tricks)
 	•	Ripartitore leads the first trick; the winner of each trick leads the next.
